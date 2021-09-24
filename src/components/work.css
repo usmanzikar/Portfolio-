@@ -1,0 +1,59 @@
+.bg-img{
+    background:  linear-gradient(rgba(255,255,255,0.7)50% , rgba(255,255,255,0.6)50%),url('../img/workbg.jpg');
+    background-size: cover ;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.cards{
+    width: 30%;
+    margin: 40px;
+    background-color:#fff;
+    border-radius: 12px;
+    transition: 0.3s ;
+    box-shadow: 2px 2px 10px black;
+    display: inline-block;
+    margin-left: 150px;
+}
+.cards:hover{
+    background-color: #000;
+    color: #fff;
+    transform: rotate(6deg);
+}
+.image img{
+    width: 100%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    }
+    .title{
+        text-align: center;
+        padding: 9px;
+    }
+    .disc{
+        text-align: center;
+        padding-bottom: 30px;
+    }
+    .title h1{
+        font-size: 24px;
+        color: #037fff;
+    }
+    @media (min-width:501px) and (max-width: 810px){
+        .cards{
+            width: 70%;
+            display: block;
+            margin-left: 100px;
+        }
+    }
+    @media (max-width: 500px){
+        .cards{
+            width: 100%;
+            display: block;
+            margin-left: 0;
+        }
+    }
+    @media (min-width:811px) and (max-width: 1390px){
+    .cards{
+    width: 40%;
+    margin-left: 30px;
+  
+}
+    }

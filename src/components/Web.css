@@ -1,0 +1,16 @@
+.Web{
+    display: flex;
+    flex: 1;
+    align-items: center;
+}
+.web_options{
+font-size: 20px;
+margin-right: 16px;
+font-weight: 500;
+}
+.web_options a{
+    text-decoration: none;
+    color: #000000;
+    display: flex;
+    align-items: center;
+}

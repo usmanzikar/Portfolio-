@@ -1,0 +1,20 @@
+.projects{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.line{
+    width: 45%;
+    margin: 15px 0;
+    color: red;
+    line-height: 10%;
+}
+.heading{
+    padding-top: 15px;
+    font-size: 46px;
+    font-weight: 600;
+    color: #037fff;
+   text-transform: capitalize;
+   text-shadow: red;
+   border-bottom: 0.4rem solid rgba(255, 255, 255, 0.7);
+}
