@@ -59,12 +59,12 @@ animation: Bootstrap 7s;
 background: linear-gradient(135deg,rgb(254, 224, 62)0%,rgb(212, 254, 62)100%);
 }
 .JavaScript{
-    width: 50%;
+    width: 55%;
     animation: JavaScript 7s;
     background: linear-gradient(135deg,rgb(138, 103, 190)0%,rgb(173, 103, 190)100%);
 }
 .React{
-    width: 50%;
+    width: 65%;
     animation: React 7s;
     background: linear-gradient(135deg,rgb(255, 105, 53)0%,rgb(255, 191, 53)100%);
 }

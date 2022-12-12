@@ -19,9 +19,9 @@ export const SocialData=[
         link:"https://github.com/usmanzikar",
         icon:require('../img/github.png').default
     },
-    {
-        platform:"Whatsapp",
-        link:" Whatsapp Number:03038960300",
-        icon:require('../img/whatsapp.png').default
-    },
-]
+//     {
+//         platform:"Whatsapp",
+//         link:" Whatsapp Number:03038960300",
+//         icon:require('../img/whatsapp.png').default
+//     },
+ ]

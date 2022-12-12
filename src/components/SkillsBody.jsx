@@ -19,10 +19,10 @@ const SkillsBody = () => {
                <span className='bar'> <span className='Bootstrap'></span>80%</span>
                </li>
                <li><h3>JavaScript</h3>
-               <span className='bar'> <span className='JavaScript'></span>50%</span>
+               <span className='bar'> <span className='JavaScript'></span>55%</span>
                </li>
                <li><h3>React JS</h3>
-               <span className='bar'> <span className='React'></span>50%</span>
+               <span className='bar'> <span className='React'></span>65%</span>
                </li>
                <li><h3>SQL</h3>
                <span className='bar'> <span className='sql'></span>45%</span>

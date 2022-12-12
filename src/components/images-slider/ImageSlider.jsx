@@ -12,6 +12,7 @@ const ImageSlider = () => {
           <img src={require("../../img/js.png").default} alt="" />
           <img src={require("../../img/bootstrap.png").default} alt="" />
           <img src={require("../../img/react.png").default} alt="" />
+
         </div>
         <div className="slide">
           <img src={require("../../img/html.png").default} alt="" />
@@ -19,6 +20,7 @@ const ImageSlider = () => {
           <img src={require("../../img/js.png").default} alt="" />
           <img src={require("../../img/bootstrap.png").default} alt="" />
           <img src={require("../../img/react.png").default} alt="" />
+
         </div>
         </div>
       </div>

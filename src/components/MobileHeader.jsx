@@ -15,7 +15,7 @@ const MobileHeader = ({ isOpen, setIsOpen }) => {
         <a href="#skill"> <i class="material-icons">laptop</i>Skills</a>
       </div>
       <div className="mobile_option">
-        <a href="work"> <i class="material-icons">work</i>Works</a>
+        <a href="#work"> <i class="material-icons">work</i>Works</a>
       </div>
       <div className="mobile_option">
         <a href="#contact"> <i class="material-icons">person</i>Contact</a>

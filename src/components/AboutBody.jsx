@@ -18,7 +18,7 @@ const AboutBody = () => {
           </p>
         </div>
         <div className='about_img'>
-            <img src={require('../img/about.JPG').default} alt="pic" className='img'/>
+            <img src={require('../img/about.jpg').default} alt="pic" className='img'/>
         </div>
       </div>
 
